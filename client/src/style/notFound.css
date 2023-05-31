@@ -1,0 +1,15 @@
+.notFound {
+  height: 95vh;
+  background: #389c7b;
+  text-align: center;
+  color: #e0e0e0;
+  font-family: "Fira Mono", monospace;
+}
+
+.notFound h1 {
+  font-size: 2.5rem;
+  font-family: "Permanent Marker";
+}
+.notFound div {
+  transform-style: preserve-3d;
+}
